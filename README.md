@@ -1,3 +1,3 @@
 # P.Snake
 Python algorithm to simulate a store system
-<img src="https://criticalhits.com.br/wp-content/uploads/2022/01/imageonline-co-flipped-2-910x512.png">
+<h1 color="gray" align="center>O algoritmo tem um sistema de login, registo de empregados, registo de clientes, registo de produtos, sistema de vendas, e um fluxo de caixa</h1>
